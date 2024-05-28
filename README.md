@@ -39,7 +39,7 @@
 <h3 align="left">Coading Platforms:</h3>
 <a href="https://leetcode.com/u/kapasiyag1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/kapasiyag1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.interviewbit.com/profile/kapasiyag1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alex-Keyes/InterviewBit/master/img/ib-logo-square.png" alt="" height="40" width="50" /></a>
+<a href="https://www.interviewbit.com/profile/kapasiyag1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alex-Keyes/InterviewBit/master/img/ib-logo-square.png" alt="" height="30" width="40" /></a>
 <br>
 
 
