@@ -1,13 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm Soumy kapasiya</h1>
 <h3 align="center">A passionate developer💻</h3> 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=Profile%20views&color=0e75b6&style=flat" alt="soyamkapasiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyamkapasiya" alt="soyamkapasiya" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" > 
 
 - 🔭 I’m currently working on Major Project **Frustration Room**
@@ -23,10 +16,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **Soyamp232@gmail.com**
-
 <br>
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://twittwer.com/kapasiyag1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="" height="40" width="60" /></a>
 <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="40" width="60" /></a>
