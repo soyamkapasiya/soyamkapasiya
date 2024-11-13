@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advance Spring Boot, Advance CSS/SCSS and JavaScript Basics**
 
-- 👯 I’m looking to collaborate on **Spring Boot**
+- 👯 I’m looking to collaborate on **Spring Boot** and **React JS**
 
 - 👨‍💻 All of my projects are available at [https://soyamkapasiya.github.io/Portfolio/](https://soyamkapasiya.github.io/Portfolio/#stats)
 
