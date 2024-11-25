@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Soumy kapasiya</h1>
-<h3 align="center">A passionate developer💻</h3> 
+<h1 align="center">Hi 👋, I'm Soyam Kapasiya</h1>
+<h3 align="center">A Dedicated JAVA Developer💻</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumykapasiya&label=Profile%20views&color=0e75b6&style=flat" alt="soyamkapasiya" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" > 
 - 🔭 I’m currently working on Major Project **Frustration Room**
