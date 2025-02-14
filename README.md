@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Soyam Kapasiya</h1>
-<h3 align="center">A Dedicated JAVA Developer💻</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=Profile%20views&color=0e75b6&style=flat" alt="soyamkapasiya" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" > 
+Hi, I'm Soyam Kapasiya! 👋
+Welcome to my GitHub profile! I'm a Java Developer passionate about building scalable backend systems, crafting intuitive APIs, and creating solutions to solve real-world problems. I specialize in Spring Boot, MongoDB, and Microservice Architecture, with a focus on writing clean, efficient, and maintainable code.
 
-- 🔭 I’m currently working on Project **HRMS Dashboard**
+🚀 About Me
+💻 Professional Skills:
 
-- 🌱 I’m currently learning **Advance Spring Boot, Advance CSS/SCSS and JavaScript Basics**
+Backend Development with Spring Boot
+Database Management: MongoDB, MySQL
+Elasticsearch for full-text search
+API Development (RESTful)
+JWT Authentication and Role-based Access Control
+PDF Generation and File Handling
+🎯 Current Projects:
 
-- 👯 I’m looking to collaborate on **Spring Boot** 
+Shiavnski Accounting: A payroll and accounting system.
+Inventory Management System: Built using Microservice Architecture.
+Financial Advisor App: A solution for managing personal finances effectively.
+🌱 What I’m Learning:
 
-- 👨‍💻 All of my projects are available at [https://soyamkapasiya.github.io/Portfolio/](https://soyamkapasiya.github.io/Portfolio/#stats)
+Advanced Java Stream API and Functional Programming
+System Design and Cloud Deployment
+🎓 Open to Collaborations:
+I enjoy collaborating on innovative projects, particularly in FinTech, E-Commerce, and Enterprise Applications.
 
-- 📝 I write articles on [https://deepstash.com/u/kapasiyag1](https://deepstash.com/u/kapasiyag1)
+🛠️ Technologies & Tools
+Languages: Java, JavaScript
+Frameworks: Spring Boot, React
+Databases: MongoDB, MySQL
+Tools: Maven, Git, IntelliJ IDEA, Postman
+Cloud: AWS S3
+📈 GitHub Stats
 
-- 💬 Ask me about only **Java**
 
-- 📫 How to reach me **Soyamp323@gmail.com**
+📂 Featured Projects
+Shiavnski Accounting
+A payroll management system with role-based authentication, employee management, and tax invoice generation.
+🔗 View Repository
+
+Inventory Management System
+A microservices-based solution for managing inventory, orders, and transactions.
+🔗 View Repository
+
+Upload File to S3 Bucket
+A Spring Boot project demonstrating file upload to AWS S3.
+🔗 View Repository
+
+📫 Get in Touch
+LinkedIn: Soyam Kapasiya
+GitHub: @soyamkapasiya
+Email: soyam.kapasiya@example.com
+Let’s collaborate and build something amazing together! 🚀
 <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://twittwer.com/kapasiyag1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="" height="40" width="60" /></a>
