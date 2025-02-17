@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src=""><br>
+  <img  src="![Image](https://github.com/user-attachments/assets/a2b5d208-97af-407e-b711-9ca62c331319)"><br>
 
 # Hi 👋, I'm Soyam Kapasiya
 Welcome to my digital space! I'm a passionate backend developer with a knack for solving complex problems and crafting efficient solutions. With a strong foundation in Spring Boot, MongoDB, and a keen interest in building scalable architectures, I aim to create impactful systems that make a difference. My journey involves diving deep into microservices, Elasticsearch, and backend optimization, while also exploring the intersections of Web Development and modern tools to bring ideas to life. I'm driven by the challenge of simplifying complexities and turning innovative ideas into tangible results.
