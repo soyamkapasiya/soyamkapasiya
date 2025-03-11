@@ -13,17 +13,18 @@ Welcome to my digital space! I'm a passionate backend developer with a knack for
 - 📫 How to reach me **Soyamp323@gmail.com**
   
 
-<h3 align="left">Connect With Me:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
+<h3 align="left">Connect With Me:</h3>
 <a href="https://twittwer.com/kapasiyag1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="" height="40" width="60" /></a>
-
 <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="40" width="60" /></a>
-
 <a href="https://instagram.com/kapasiyag1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="" height="40" width="60" /></a>
 
 <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 <h3 align="left">Coading Platforms:</h3>
 <a href="https://leetcode.com/u/kapasiyag1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/kapasiyag1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
