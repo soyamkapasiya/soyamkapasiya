@@ -12,15 +12,17 @@ Welcome to my digital space! I'm a passionate backend developer with a knack for
 - 💬 Ask me about only **Java**
 - 📫 How to reach me **Soyamp323@gmail.com**
   
+<img src="https://user-images.githubusercontent.com/48355572/272910172-1266ac8f-a1de-43d9-94f9-44a0a90b67a0.png" alt="Connect With Me" width="130px"/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
-
-<br>
-<h3 align="left">Connect with me:</h3>
+<table><tr><td valign="top" width="41%">
 <a href="https://twittwer.com/kapasiyag1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="" height="40" width="60" /></a>
+</td><td valign="top" width="40%">
 <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="40" width="60" /></a>
+</td><td valign="top" width="18%">
 <a href="https://instagram.com/kapasiyag1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="" height="40" width="60" /></a>
+</td></tr></table>
 
 <br>
 <h3 align="left">Coading Platforms:</h3>
