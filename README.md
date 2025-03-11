@@ -31,7 +31,9 @@ Welcome to my digital space! I'm a passionate backend developer with a knack for
 <a href="https://www.interviewbit.com/profile/kapasiyag1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alex-Keyes/InterviewBit/master/img/ib-logo-square.png" alt="" height="30" width="40" /></a>
 <br>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
