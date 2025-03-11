@@ -2,6 +2,9 @@
   <img  src="banner.png"><br>
 
 # Hi 👋, I'm Soyam Kapasiya
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 Welcome to my digital space! I'm a passionate backend developer with a knack for solving complex problems and crafting efficient solutions. With a strong foundation in Spring Boot, MongoDB, and a keen interest in building scalable architectures, I aim to create impactful systems that make a difference. My journey involves diving deep into microservices, Elasticsearch, and backend optimization, while also exploring the intersections of Web Development and modern tools to bring ideas to life. I'm driven by the challenge of simplifying complexities and turning innovative ideas into tangible results.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=Profile%20views&color=0e75b6&style=flat" alt="soyamkapasiya" /> </p>
