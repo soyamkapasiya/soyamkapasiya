@@ -1,190 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soyam%20Kapasiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Soyam%20Kapasiya&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Java+Developer;Microservices+Expert;1%2B+Years+Experience;Building+Scalable+Systems;Performance+Optimization+Specialist" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Java+Developer;Microservices+Expert;1%2B+Years+Experience;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 ## 🚀 Professional Summary
 
-**Backend Java Developer** with **1+ years** of hands-on experience building scalable microservices and event-driven systems. Currently working at **Freedom Mortgage** via Shiavnski Technologies, specializing in financial domain applications.
+**Backend Java Developer** with **1+ years** of hands-on experience at **Freedom Mortgage** via Shiavnski Technologies. Specialized in building scalable microservices and event-driven systems for financial domain applications.
 
 ### 🎯 Key Achievements
-- 🔥 **Performance Optimization**: Reduced API response times by **30%** and system downtime by **15%**
-- 📈 **Scalable Architecture**: Built systems handling **1M+ daily requests** with **99.9% uptime**
-- ⚡ **Team Collaboration**: Enhanced Agile delivery speed by **20%** through cross-functional partnership
-- 🌏 **Global Mobility**: Open to international opportunities, particularly in Japan
+- 🔥 **Performance**: 30% faster APIs, 15% less downtime, 99.9% uptime
+- 📈 **Scale**: Systems handling 1M+ daily requests  
+- ⚡ **Delivery**: 20% faster Agile cycles through cross-functional collaboration
+- 🌏 **Global Ready**: Open to international opportunities, particularly Japan
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soyamkapasiya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  
+## 📊 GitHub Stats & Activity
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=soyamkapasiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyamkapasiya&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soyamkapasiya&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ## 🏆 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🔍 Enterprise Inventory Management System (ELK-IMS)
-**High-Performance Microservices Architecture**  
-📅 *Jan 2024 – Feb 2024* | [🔗 View on GitHub](https://github.com/soyamkapasiya)
+*High-Performance Microservices Architecture | Jan 2024 – Feb 2024*
 
-#### 🚀 Key Achievements:
-- 📊 **Scale**: Architected microservices handling **1M+ API requests daily**
-- ⚡ **Performance**: **30% faster response times** with **40% reduced query latency**
-- 📈 **Monitoring**: **50% improved log processing** efficiency with ELK stack
-- 🎯 **Reliability**: Maintained **99.9% uptime** with robust architecture
+**Achievements:** 1M+ daily API requests • 30% faster response times • 40% reduced query latency • 99.9% uptime
 
-#### 🛠️ Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Tech:** Java • Spring Boot • Elasticsearch • Logstash • Kibana • Docker • API Gateway
 
-</td>
-<td width="50%">
+### 🚔 Law Enforcement Case Management System  
+*Real-time Event-Driven Architecture | May 2024 – Present*
 
-### 🚔 Law Enforcement Case Management System
-**Real-time Event-Driven Architecture**  
-📅 *May 2024 – Present* | [🔗 View on GitHub](https://github.com/soyamkapasiya)
+**Features:** Live 911/patrol data processing • Event sourcing microservices • Apache Camel routing • ArangoDB graph modeling
 
-#### 🚀 Key Features:
-- 🔄 **Real-time Processing**: Live 911 and patrol case data processing
-- 🏗️ **Event-Driven**: Microservices with event sourcing architecture
-- 🔗 **Smart Routing**: Apache Camel for intelligent data routing
-- 🕸️ **Graph Database**: Complex relationship modeling with ArangoDB
-- 🚀 **DevOps**: Automated deployment with Docker Compose
+**Tech:** Spring Boot • Apache Kafka • Apache Camel • ArangoDB • Docker Compose
 
-#### 🛠️ Tech Stack:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## 🛠️ Technical Skills
 
-</td>
-</tr>
-</table>
+**Backend:** Java 8/11 • Spring Boot • Spring Security • Microservices • REST APIs  
+**Data:** MySQL • MongoDB • Elasticsearch • ArangoDB • Hibernate/JPA  
+**Integration:** Apache Kafka • Apache Camel • Event-Driven Architecture  
+**DevOps:** Docker • Git • Postman • ELK Stack • AWS  
+**Methods:** Agile/Scrum • TDD • Performance Tuning
+
+## 🏅 Competitive Programming
+
+- 🥈 **GeeksforGeeks**: 2nd position at college level • 500+ problems solved
+- 🌍 **LeetCode**: Global rank 603,525 • 240+ challenges completed
+- 🧠 **Skills**: Strong analytical thinking and optimization techniques
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 🛠️ Core Technical Expertise
-
-<div align="center">
-
-### Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-### Data & Analytics
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### Message Queuing & Integration
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Camel](https://img.shields.io/badge/Apache_Camel-F69220?style=for-the-badge&logo=apache-camel&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-## 🏅 Competitive Programming Excellence
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-- 🥈 **College Champion**: Secured **2nd position** at college level on GeeksforGeeks with **500+ problems solved**
-- 🌍 **Global Recognition**: Achieved **global rank 603,525** on LeetCode platform with **240+ algorithmic challenges**
-- 🧠 **Problem-Solving Skills**: Demonstrated strong analytical thinking and optimization techniques
-
-<div align="center">
-  <a href="https://leetcode.com/u/kapasiyag1/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/kapasiyag1/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.interviewbit.com/profile/kapasiyag1/" target="_blank">
-    <img src="https://img.shields.io/badge/InterviewBit-87CEEB?style=for-the-badge&logo=interviewbit&logoColor=black" alt="InterviewBit"/>
-  </a>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soyamkapasiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyamkapasiya&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyamkapasiya&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soyamkapasiya&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <a href="https://leetcode.com/u/kapasiyag1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/kapasiyag1/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.interviewbit.com/profile/kapasiyag1/"><img src="https://img.shields.io/badge/InterviewBit-87CEEB?style=flat-square&logo=interviewbit&logoColor=black"/></a>
 </div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/kapasiyag1/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" height="60" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/kapasiyag1/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="60" alt="Instagram"/>
-  </a>
-  <a href="mailto:soyamp323@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" height="60" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://soyamkapasiya.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:soyamp323@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://soyamkapasiya.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:soyamp323@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/kapasiyag1/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 ## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-- 🔭 **Currently Working On**: Advanced microservices architecture and performance optimization
-- 🌱 **Learning**: Advanced Spring Boot patterns, Kubernetes, and cloud-native development
-- 👯 **Looking to Collaborate**: Open-source Spring Boot projects and microservices solutions
-- 💬 **Ask Me About**: Java, Spring Boot, Microservices, System Design, and Performance Optimization
-- 🌏 **Open to**: International opportunities, particularly in Japan
+- 🔭 **Working On**: Advanced microservices architecture and performance optimization
+- 🌱 **Learning**: Kubernetes, cloud-native development, advanced Spring patterns
+- 👯 **Collaborating**: Open-source Spring Boot projects and microservices solutions
+- 💬 **Ask Me About**: Java, Spring Boot, Microservices, System Design, Performance Optimization
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=Profile%20Views&color=brightgreen&style=flat-square"/>
 </div>
