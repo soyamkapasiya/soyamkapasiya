@@ -24,20 +24,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=soyamkapasiya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 💼 Current Role
-
-**Java Backend Developer** | Freedom Mortgage (via Shiavnski Technologies)  
-📅 *Jul 2024 – Present* | 📍 *Indore, India*
-
-- 🛠️ **System Reliability**: Achieved **15% reduction in downtime** through critical bug resolution
-- 🚀 **Process Optimization**: Streamlined Agile workflows resulting in **20% faster delivery cycles**
-- 💰 **Financial Solutions**: Developed robust financial domain applications using Java & Spring Boot
-- 🤝 **Cross-functional Leadership**: Collaborated with product managers, QA engineers, and DevOps teams
-
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350" alt="Coding Animation"/>
-</div>
-
 ## 🏆 Featured Projects
 
 <table>
