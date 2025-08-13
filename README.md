@@ -12,7 +12,7 @@
 
 ## 🚀 Professional Summary
 
-**Backend Java Developer** with **1+ years** of hands-on experience building scalable microservices and event-driven systems. Currently working at **Freedom Mortgage** via Shiavnski Technologies, specializing in financial domain applications.
+**Backend Java Developer** with **1+ years** of hands-on experience building scalable microservices and event-driven systems. Currently working at **FM** via Shiavnski Technologies, specializing in financial domain applications.
 
 ### 🎯 Key Achievements
 - 🔥 **Performance Optimization**: Reduced API response times by **30%** and system downtime by **15%**
