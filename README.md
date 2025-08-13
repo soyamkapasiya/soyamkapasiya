@@ -12,7 +12,7 @@
 
 ## 🚀 Professional Summary
 
-**Backend Java Developer** with **1+ years** of hands-on experience building scalable microservices and event-driven systems. Currently working at **FM** via Shiavnski Technologies, specializing in financial domain applications.
+**Backend Java Developer** with **1+ years** of hands-on experience building scalable microservices and event-driven systems. Currently working at **Freedom Mortgage** via Shiavnski Technologies, specializing in financial domain applications.
 
 ### 🎯 Key Achievements
 - 🔥 **Performance Optimization**: Reduced API response times by **30%** and system downtime by **15%**
@@ -40,26 +40,49 @@
 
 ## 🏆 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🔍 Enterprise Inventory Management System (ELK-IMS)
-**High-Performance Microservices Architecture** | *Jan 2024 – Feb 2024*
+**High-Performance Microservices Architecture**  
+📅 *Jan 2024 – Feb 2024* | [🔗 View on GitHub](https://github.com/soyamkapasiya)
 
-- 📊 **Scale Achievement**: Architected microservices handling **1M+ API requests daily** with **30% faster response times**
-- ⚡ **Real-time Analytics**: Implemented Elasticsearch integration reducing query latency by **40%**
-- 📈 **System Monitoring**: Deployed ELK stack improving log processing efficiency by **50%**
-- 🎯 **Reliability**: Maintained **99.9% uptime** through robust API Gateway and load balancing
+#### 🚀 Key Achievements:
+- 📊 **Scale**: Architected microservices handling **1M+ API requests daily**
+- ⚡ **Performance**: **30% faster response times** with **40% reduced query latency**
+- 📈 **Monitoring**: **50% improved log processing** efficiency with ELK stack
+- 🎯 **Reliability**: Maintained **99.9% uptime** with robust architecture
 
-**Tech Stack**: `Java` `Spring Boot` `Elasticsearch` `Logstash` `Kibana` `Docker` `API Gateway`
+#### 🛠️ Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%">
 
 ### 🚔 Law Enforcement Case Management System
-**Real-time Event-Driven Architecture** | *May 2024 – Present*
+**Real-time Event-Driven Architecture**  
+📅 *May 2024 – Present* | [🔗 View on GitHub](https://github.com/soyamkapasiya)
 
-- 🔄 **Real-time Processing**: Built POC for live 911 and patrol case data using Spring Boot, Kafka, and Apache Camel
-- 🏗️ **Event-Driven Design**: Architected microservices with event sourcing for seamless data flow
-- 🔗 **Data Enrichment**: Configured Apache Camel for intelligent routing and Kafka topic-based message handling
-- 🕸️ **Graph Database**: Modeled complex case relationships using ArangoDB queries
-- 🚀 **DevOps Integration**: Automated deployment with Docker Compose
+#### 🚀 Key Features:
+- 🔄 **Real-time Processing**: Live 911 and patrol case data processing
+- 🏗️ **Event-Driven**: Microservices with event sourcing architecture
+- 🔗 **Smart Routing**: Apache Camel for intelligent data routing
+- 🕸️ **Graph Database**: Complex relationship modeling with ArangoDB
+- 🚀 **DevOps**: Automated deployment with Docker Compose
 
-**Tech Stack**: `Spring Boot` `Apache Kafka` `Apache Camel` `ArangoDB` `Docker Compose` `Event Sourcing`
+#### 🛠️ Tech Stack:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
