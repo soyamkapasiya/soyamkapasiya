@@ -1,190 +1,130 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soyam%20Kapasiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
+<!-- Futuristic & Aesthetic Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,15,40&height=220&section=header&text=SOYAM%20KAPASIYA&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Java+Developer;Microservices+Expert;1%2B+Years+Experience;Building+Scalable+Systems;Performance+Optimization+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=>>+SYSTEM+INITIALIZED;>>+BACKEND+JAVA+ARCHITECT;>>+MICROSERVICES+SPECIALIST;>>+AI+INTEGRATION+ENGINEER;>>+SOLVING+COMPLEX+SYSTEMS" alt="Futuristic Typing" />
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+</p>
+
+<!-- Interactive Navigation -->
+<p align="center">
+  <a href="#projects"><b>[ PROJECTS ]</b></a> • 
+  <a href="#experience"><b>[ EXPERIENCE ]</b></a> • 
+  <a href="#skills"><b>[ TECH-STACK ]</b></a> • 
+  <a href="#connect"><b>[ UPLINK ]</b></a>
+</p>
+
+<hr style="border: 1px solid #00F7FF; border-radius: 5px;">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
 
-## 🚀 Professional Summary
+### 🧬 BIOMETRICS & PROFILES
+Welcome to the core. I am a **High-Performance Backend Developer** with **2+ years** of recursive experience in building mission-critical architectures. I specialize in **Java/Spring Boot**, **Microservices**, and **AI-Driven Automation**. My mission is to engineer systems that are not just scalable, but **intelligent** and **fault-tolerant**.
 
-**Backend Java Developer** with **1+ years** of hands-on experience building scalable microservices and event-driven systems. Currently working at **Freedom Mortgage** via Shiavnski Technologies, specializing in financial domain applications.
-
-### 🎯 Key Achievements
-- 🔥 **Performance Optimization**: Reduced API response times by **30%** and system downtime by **15%**
-- 📈 **Scalable Architecture**: Built systems handling **1M+ daily requests** with **99.9% uptime**
-- ⚡ **Team Collaboration**: Enhanced Agile delivery speed by **20%** through cross-functional partnership
-- 🌏 **Global Mobility**: Open to international opportunities, particularly in Japan
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soyamkapasiya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔍 Enterprise Inventory Management System (ELK-IMS)
-**High-Performance Microservices Architecture**  
-📅 *Jan 2024 – Feb 2024* | [🔗 View on GitHub](https://github.com/soyamkapasiya)
-
-#### 🚀 Key Achievements:
-- 📊 **Scale**: Architected microservices handling **1M+ API requests daily**
-- ⚡ **Performance**: **30% faster response times** with **40% reduced query latency**
-- 📈 **Monitoring**: **50% improved log processing** efficiency with ELK stack
-- 🎯 **Reliability**: Maintained **99.9% uptime** with robust architecture
-
-#### 🛠️ Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🚔 Law Enforcement Case Management System
-**Real-time Event-Driven Architecture**  
-📅 *May 2024 – Present* | [🔗 View on GitHub](https://github.com/soyamkapasiya)
-
-#### 🚀 Key Features:
-- 🔄 **Real-time Processing**: Live 911 and patrol case data processing
-- 🏗️ **Event-Driven**: Microservices with event sourcing architecture
-- 🔗 **Smart Routing**: Apache Camel for intelligent data routing
-- 🕸️ **Graph Database**: Complex relationship modeling with ArangoDB
-- 🚀 **DevOps**: Automated deployment with Docker Compose
-
-#### 🛠️ Tech Stack:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 🛠️ Core Technical Expertise
-
-<div align="center">
-
-### Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-### Data & Analytics
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### Message Queuing & Integration
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Camel](https://img.shields.io/badge/Apache_Camel-F69220?style=for-the-badge&logo=apache-camel&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-## 🏅 Competitive Programming Excellence
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-- 🥈 **College Champion**: Secured **2nd position** at college level on GeeksforGeeks with **500+ problems solved**
-- 🌍 **Global Recognition**: Achieved **global rank 603,525** on LeetCode platform with **240+ algorithmic challenges**
-- 🧠 **Problem-Solving Skills**: Demonstrated strong analytical thinking and optimization techniques
-
-<div align="center">
-  <a href="https://leetcode.com/u/kapasiyag1/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/kapasiyag1/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.interviewbit.com/profile/kapasiyag1/" target="_blank">
-    <img src="https://img.shields.io/badge/InterviewBit-87CEEB?style=for-the-badge&logo=interviewbit&logoColor=black" alt="InterviewBit"/>
-  </a>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soyamkapasiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyamkapasiya&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyamkapasiya&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soyamkapasiya&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/kapasiyag1/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" height="60" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/kapasiyag1/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="60" alt="Instagram"/>
-  </a>
-  <a href="mailto:soyamp323@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" height="60" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://soyamkapasiya.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:soyamp323@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-- 🔭 **Currently Working On**: Advanced microservices architecture and performance optimization
-- 🌱 **Learning**: Advanced Spring Boot patterns, Kubernetes, and cloud-native development
-- 👯 **Looking to Collaborate**: Open-source Spring Boot projects and microservices solutions
-- 💬 **Ask Me About**: Java, Spring Boot, Microservices, System Design, and Performance Optimization
-- 🌏 **Open to**: International opportunities, particularly in Japan
+- ⚡ **Specialties**: Low-Latency APIs • Distributed Systems • RAG/LLM Pipelines
+- 🧠 **Philosophy**: "Clean code is the foundation of digital immortality."
+- 🌏 **Status**: Ready for Orbital Shift (International Opportunities)
 
 ---
 
+<h2 id="projects">📂 MISSION LOGS: FEATURED PROJECTS</h2>
+
+<details open>
+<summary><b>[ PROJECT_01 ]: Shiphered - AI Automation</b></summary>
+<br/>
+<blockquote>
+  <b>Focus:</b> Intelligent Support Automation | <b>Stack:</b> FastAPI, RAG, Temporal.io
+</blockquote>
+  <ul>
+    <li>Architected a <b>Monorepo</b> for Zendesk/eDesk integration using Python-based AI workflows.</li>
+    <li>Engineered <b>RAG pipelines</b> with <code>pgvector</code> for deterministic AI responses.</li>
+    <li>Developed durable task processing with <b>Temporal.io</b>, handling thousands of tickets asynchronously.</li>
+  </ul>
+</details>
+
+<details>
+<summary><b>[ PROJECT_02 ]: OceanTrack - Logistics Core</b></summary>
+<br/>
+<blockquote>
+  <b>Focus:</b> Logistics Management | <b>Stack:</b> Java 11/17, Spring Boot, PostgreSQL
+</blockquote>
+  <ul>
+    <li>Built business-critical REST APIs for large-scale logistics operations.</li>
+    <li>Optimized throughput by <b>40%</b> via Java Concurrency Utilities and multithreading.</li>
+    <li>Implemented robust data integrity models with ACID-compliant PostgreSQL schemas.</li>
+  </ul>
+</details>
+
+<details>
+<summary><b>[ PROJECT_03 ]: Claim-It - Financial Grid</b></summary>
+<br/>
+<blockquote>
+  <b>Focus:</b> Fintech Claims | <b>Stack:</b> Spring Boot, Snowflake, Oracle
+</blockquote>
+  <ul>
+    <li>Architected microservices for high-compliance financial claim workflows.</li>
+    <li>Integrated <b>Snowflake/Oracle</b> for complex data lake transformations.</li>
+    <li>Secured API communication layers with <b>Spring Security/OAuth2</b>.</li>
+  </ul>
+</details>
+
+---
+
+<h2 id="experience">💼 PREVIOUS ENGAGEMENTS</h2>
+
+#### **JAVA BACKEND DEVELOPER | SHIAVNSKI TECHNOLOGIES**
+*JUL 2024 – PRESENT • INDORE, INDIA*
+
+- 🛠️ **Production Hardened**: Resolved high-priority production outages under intense pressure.
+- 🤖 **AI-First**: Integrated **LLMs (ChatGPT/Claude)** and **Langchain** into internal dev cycles.
+- 🚀 **High Velocity**: Part of the core team for rapid-deployment fintech releases.
+- 📐 **Refactoring**: Led major refactoring efforts to improve system testability and maintainability.
+
+---
+
+<h2 id="skills">🛠️ TECH OPERATING SYSTEM</h2>
+
+| LAYER | TECHNOLOGIES |
+| :--- | :--- |
+| **_CORE_** | ![Java](https://img.shields.io/badge/-Java%208%2F11-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **_DATA_** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
+| **_INFRA_**| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) |
+| **_AI_ART_**| ![RAG](https://img.shields.io/badge/-RAG%20Patterns-000000?style=flat-square&logo=brain&logoColor=cyan) ![Langchain](https://img.shields.io/badge/-Langchain-00A67E?style=flat-square&logo=chain&logoColor=white) ![Prompt Eng](https://img.shields.io/badge/-Prompt%20Eng-FFC107?style=flat-square&logoColor=black) |
+
+---
+
+<h2 id="stats">📊 NEURAL NETWORK STATS</h2>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soyamkapasiya&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyamkapasiya&theme=tokyonight&layout=compact&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyamkapasiya&theme=tokyonight&background=0D1117&stroke=00F7FF&fire=00F7FF&ring=00F7FF&sideNums=ffffff" alt="Streak" />
 </div>
+
+---
+
+<h2 id="connect">🌐 UPLINK: CONNECT WITH ME</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:soyamp323@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/kapasiyag1/"><img src="https://img.shields.io/badge/ENCRYPTED_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=TERMINAL+ACCESSES&color=00F7FF&style=plastic" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,15,40&height=100&section=footer&animation=twinkling"/>
+</p>
