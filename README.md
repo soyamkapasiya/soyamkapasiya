@@ -1,130 +1,173 @@
-<!-- Futuristic & Aesthetic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,15,40&height=220&section=header&text=SOYAM%20KAPASIYA&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00172D,100:00D9FF&height=220&section=header&text=SOYAM%20KAPASIYA&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=>>+SYSTEM+INITIALIZED;>>+BACKEND+JAVA+ARCHITECT;>>+MICROSERVICES+SPECIALIST;>>+AI+INTEGRATION+ENGINEER;>>+SOLVING+COMPLEX+SYSTEMS" alt="Futuristic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=SYSTEM+ENGINEER;JAVA++MICROSERVICES;AI++AUTOMATION;LOW-LATENCY+ARCHITECT;PROBLEM+SOLVER" alt="Futuristic Typing" />
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!-- Interactive Navigation -->
-<p align="center">
-  <a href="#projects"><b>[ PROJECTS ]</b></a> • 
-  <a href="#experience"><b>[ EXPERIENCE ]</b></a> • 
-  <a href="#skills"><b>[ TECH-STACK ]</b></a> • 
-  <a href="#connect"><b>[ UPLINK ]</b></a>
-</p>
+<div align="center">
+  <a href="#projects"><img src="https://img.shields.io/badge/-%5B_PROJECTS_%5D-00D9FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/-%5B_EXPERIENCE_%5D-00D9FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/-%5B_TECH_STACK_%5D-00D9FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/-%5B_UPLINK_%5D-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</div>
 
-<hr style="border: 1px solid #00F7FF; border-radius: 5px;">
+<br/>
 
 <div align="center">
   <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
 
-### 🧬 BIOMETRICS & PROFILES
-Welcome to the core. I am a **High-Performance Backend Developer** with **2+ years** of recursive experience in building mission-critical architectures. I specialize in **Java/Spring Boot**, **Microservices**, and **AI-Driven Automation**. My mission is to engineer systems that are not just scalable, but **intelligent** and **fault-tolerant**.
+### 🌌 DATA_STREAM: BIOMETRICS
+> "Engineering the backplane of tomorrow's intelligent systems."
 
-- ⚡ **Specialties**: Low-Latency APIs • Distributed Systems • RAG/LLM Pipelines
-- 🧠 **Philosophy**: "Clean code is the foundation of digital immortality."
-- 🌏 **Status**: Ready for Orbital Shift (International Opportunities)
+I am a **High-Performance Backend Architect** with **2+ years** of recursive experience specializing in the **Java/AI overlap**. My core focus is on building **mission-critical microservices** and **deterministic AI pipelines** that bridge the gap between scale and intelligence.
+
+- ⚡ **Specialties**: Distributed Workflows • RAG Architecture • Performance Tuning
+- 🧠 **Method**: Clean Code • Design Patterns • Data-Driven Decisions
+- 🌏 **Uplink**: Currently exploring global opportunities (Japan/International)
+
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png" width="100%">
 
 ---
 
-<h2 id="projects">📂 MISSION LOGS: FEATURED PROJECTS</h2>
+<h2 id="projects">📂 ARCHIVES: DEPLOYED SYSTEMS</h2>
 
 <details open>
-<summary><b>[ PROJECT_01 ]: Shiphered - AI Automation</b></summary>
+<summary><b><img src="https://user-images.githubusercontent.com/48355572/234940695-3b5baa71-01f5-4156-aca0-7a759bdec650.gif" width="15px"> [ PROJECT_ALPHA ]: Shiphered AI</b></summary>
 <br/>
-<blockquote>
-  <b>Focus:</b> Intelligent Support Automation | <b>Stack:</b> FastAPI, RAG, Temporal.io
-</blockquote>
-  <ul>
-    <li>Architected a <b>Monorepo</b> for Zendesk/eDesk integration using Python-based AI workflows.</li>
-    <li>Engineered <b>RAG pipelines</b> with <code>pgvector</code> for deterministic AI responses.</li>
-    <li>Developed durable task processing with <b>Temporal.io</b>, handling thousands of tickets asynchronously.</li>
-  </ul>
+<table border="0">
+  <tr>
+    <td width="70%">
+      <b>Intelligent Support Automation Platform</b><br/>
+      Built a high-volume monorepo application to automate support tickets using <code>FastAPI</code> and <code>RAG</code>. 
+      Implemented fault-tolerant pipelines with <code>Temporal.io</code> and optimized AI accuracy using <code>pgvector</code>.
+    </td>
+    <td width="30%">
+      <code>Python</code> • <code>FastAPI</code><br/>
+      <code>RAG</code> • <code>Temporal</code><br/>
+      <code>Pgvector</code> • <code>LLM</code>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
-<summary><b>[ PROJECT_02 ]: OceanTrack - Logistics Core</b></summary>
+<summary><b><img src="https://user-images.githubusercontent.com/48355572/234940695-3b5baa71-01f5-4156-aca0-7a759bdec650.gif" width="15px"> [ PROJECT_BETA ]: OceanTrack Logistics</b></summary>
 <br/>
-<blockquote>
-  <b>Focus:</b> Logistics Management | <b>Stack:</b> Java 11/17, Spring Boot, PostgreSQL
-</blockquote>
-  <ul>
-    <li>Built business-critical REST APIs for large-scale logistics operations.</li>
-    <li>Optimized throughput by <b>40%</b> via Java Concurrency Utilities and multithreading.</li>
-    <li>Implemented robust data integrity models with ACID-compliant PostgreSQL schemas.</li>
-  </ul>
+<table border="0">
+  <tr>
+    <td width="70%">
+      <b>Enterprise Logistics Core</b><br/>
+      Developed critical REST modules for logistics workflows. Achieved 30% reduction in response latency through <code>Java Multithreading</code> and <code>Concurrency</code> optimization. Applied <code>Builder Patterns</code> for scalable object construction.
+    </td>
+    <td width="30%">
+      <code>Java 11</code> • <code>Spring Boot</code><br/>
+      <code>Hibernate</code> • <code>PSQL</code><br/>
+      <code>Azure Blob</code> • <code>Swagger</code>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
-<summary><b>[ PROJECT_03 ]: Claim-It - Financial Grid</b></summary>
+<summary><b><img src="https://user-images.githubusercontent.com/48355572/234940695-3b5baa71-01f5-4156-aca0-7a759bdec650.gif" width="15px"> [ PROJECT_GAMMA ]: Claim-It Finance</b></summary>
 <br/>
-<blockquote>
-  <b>Focus:</b> Fintech Claims | <b>Stack:</b> Spring Boot, Snowflake, Oracle
-</blockquote>
-  <ul>
-    <li>Architected microservices for high-compliance financial claim workflows.</li>
-    <li>Integrated <b>Snowflake/Oracle</b> for complex data lake transformations.</li>
-    <li>Secured API communication layers with <b>Spring Security/OAuth2</b>.</li>
-  </ul>
+<table border="0">
+  <tr>
+    <td width="70%">
+      <b>High-Compliance Financial Gateway</b><br/>
+      Engineered distributed microservices for financial claim processing. Optimized large-scale data ingestion using <code>Snowflake</code> and <code>Oracle</code>. Ensured 99.9% reliability via automated <code>CI/CD</code> and clean-code principles.
+    </td>
+    <td width="30%">
+      <code>Spring Boot</code> • <code>Microservices</code><br/>
+      <code>Snowflake</code> • <code>Oracle</code><br/>
+      <code>Jenkins</code> • <code>JPA</code>
+    </td>
+  </tr>
+</table>
 </details>
 
 ---
 
-<h2 id="experience">💼 PREVIOUS ENGAGEMENTS</h2>
+<h2 id="experience">💼 CHRONICLES: CAREER TIMELINE</h2>
 
-#### **JAVA BACKEND DEVELOPER | SHIAVNSKI TECHNOLOGIES**
-*JUL 2024 – PRESENT • INDORE, INDIA*
-
-- 🛠️ **Production Hardened**: Resolved high-priority production outages under intense pressure.
-- 🤖 **AI-First**: Integrated **LLMs (ChatGPT/Claude)** and **Langchain** into internal dev cycles.
-- 🚀 **High Velocity**: Part of the core team for rapid-deployment fintech releases.
-- 📐 **Refactoring**: Led major refactoring efforts to improve system testability and maintainability.
+<div align="center">
+  <table>
+    <tr>
+      <td width="15%"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"></td>
+      <td width="85%">
+        <b>Java Backend Developer @ Shiavnski Technologies</b><br/>
+        <i>July 2024 – Present | Indore, India</i><br/>
+        • Hardened production backends against critical high-load scenarios.<br/>
+        • Pioneered LLM-based internal tooling to boost dev cycle by 25%.<br/>
+        • Mastered complex RAG pipelines for Enterprise-grade AI support.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h2 id="skills">🛠️ TECH OPERATING SYSTEM</h2>
+<h2 id="skills">🛠️ KERNEL: TECH_STACK</h2>
 
-| LAYER | TECHNOLOGIES |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,mongodb,elasticsearch,hibernate,docker,git,jenkins,azure,postman,maven,gradle" />
+</p>
+
+<div align="center">
+  
+| LAYER | DISCIPLINE |
 | :--- | :--- |
-| **_CORE_** | ![Java](https://img.shields.io/badge/-Java%208%2F11-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **_DATA_** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
-| **_INFRA_**| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) |
-| **_AI_ART_**| ![RAG](https://img.shields.io/badge/-RAG%20Patterns-000000?style=flat-square&logo=brain&logoColor=cyan) ![Langchain](https://img.shields.io/badge/-Langchain-00A67E?style=flat-square&logo=chain&logoColor=white) ![Prompt Eng](https://img.shields.io/badge/-Prompt%20Eng-FFC107?style=flat-square&logoColor=black) |
+| **Logic** | `Java 8/11/17`, `Spring Boot`, `FastAPI`, `Microservices`, `Python` |
+| **Persistence** | `PostgreSQL`, `MongoDB`, `Elasticsearch`, `Snowflake`, `Oracle`, `Redis` |
+| **Automation** | `Temporal.io`, `Jenkins`, `Docker`, `GitLab CI`, `Bash` |
+| **Intelligence** | `RAG`, `Langchain`, `Vector DBs`, `Prompt Engineering`, `LLM Integration` |
 
----
-
-<h2 id="stats">📊 NEURAL NETWORK STATS</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyamkapasiya&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyamkapasiya&theme=tokyonight&layout=compact&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyamkapasiya&theme=tokyonight&background=0D1117&stroke=00F7FF&fire=00F7FF&ring=00F7FF&sideNums=ffffff" alt="Streak" />
 </div>
 
 ---
 
-<h2 id="connect">🌐 UPLINK: CONNECT WITH ME</h2>
+<h2 id="stats">📊 NEURAL_NET_ANALYTICS</h2>
 
-<p align="center">
+<div align="center">
+<table border="0">
+  <tr>
+    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=soyamkapasiya&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true&bg_color=0D1117&border_radius=10&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF" /></td>
+    <td><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyamkapasiya&theme=tokyonight&layout=compact&bg_color=0D1117&border_radius=10&title_color=00F7FF&text_color=ffffff" /></td>
+  </tr>
+</table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=soyamkapasiya&theme=tokyonight&background=0D1117&stroke=00F7FF&fire=00F7FF&ring=00F7FF&sideNums=ffffff&border_radius=10" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soyamkapasiya&theme=react-dark&hide_border=true&area=true&color=00F7FF" width="100%" />
+</div>
+
+---
+
+<h2 id="connect">🌐 UPLINK: SECURE_COMMUNICATIONS</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/soyam-kapasiya-25b9292a7/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:soyamp323@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/kapasiyag1/"><img src="https://img.shields.io/badge/ENCRYPTED_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:soyamp323@gmail.com"><img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/kapasiyag1/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/kapasiyag1/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=TERMINAL+ACCESSES&color=00F7FF&style=plastic" />
+</p>
+
+<!-- Custom Indore Artwork -->
+<p align="center">
+  <img src="rajwada.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=TERMINAL+ACCESSES&color=00F7FF&style=plastic" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,15,40&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00172D,100:00D9FF&height=100&section=footer" width="100%"/>
 </p>
