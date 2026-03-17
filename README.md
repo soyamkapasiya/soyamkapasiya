@@ -150,6 +150,20 @@ I am a **High-Performance Backend Architect** with **2+ years** of recursive exp
 
 ---
 
+<h2 id="playground">🎮 SYSTEM_VOX: MINI_GAME</h2>
+
+<div align="center">
+  <p><b>CHALLENGE: MISSION_CONTROL_CRISIS</b></p>
+  <p>Current Rank: <b>SYSTEM_NOVICE</b> | Objective: <b>Defeat the Rogue AI</b></p>
+  <a href="https://github.com/soyamkapasiya/soyamkapasiya/issues/new?title=game:action&body=I%20choose%20to%20ATTACK%20the%20rogue%20AI!"><img src="https://img.shields.io/badge/A%20-%20ATTACK-red?style=for-the-badge" /></a>
+  <a href="https://github.com/soyamkapasiya/soyamkapasiya/issues/new?title=game:action&body=I%20choose%20to%20REPAIR%20the%20firewall!"><img src="https://img.shields.io/badge/B%20-%20REPAIR-green?style=for-the-badge" /></a>
+  <a href="https://github.com/soyamkapasiya/soyamkapasiya/issues/new?title=game:action&body=I%20choose%20to%20HACK%20the%20mainframe!"><img src="https://img.shields.io/badge/X%20-%20HACK-blue?style=for-the-badge" /></a>
+</div>
+
+<br/>
+
+---
+
 <h2 id="connect">🌐 UPLINK: SECURE_COMMUNICATIONS</h2>
 
 <div align="center">
@@ -163,10 +177,10 @@ I am a **High-Performance Backend Architect** with **2+ years** of recursive exp
   <img src="https://komarev.com/ghpvc/?username=soyamkapasiya&label=TERMINAL+ACCESSES&color=00F7FF&style=plastic" />
 </p>
 
-<!-- Custom Indore Artwork -->
-<p align="center">
-  <img src="rajwada.png" width="100%" />
-</p>
+<!-- Custom Indore Artwork (Rectangular Fix) -->
+<div align="center">
+  <img src="rajwada.jpg" width="100%" height="60%"/>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00172D,100:00D9FF&height=100&section=footer" width="100%"/>
